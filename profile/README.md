@@ -1,7 +1,7 @@
 # PyBugHive
 
 
-**PyBugHive** is a benchmark of **105 real, manually validated bugs** from **10** Python projects.
+**PyBugHive** is a benchmark of **149 real, manually validated bugs** from **11** Python projects.
 
 ## Detailed Bugs
 
